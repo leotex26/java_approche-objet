@@ -20,12 +20,19 @@ public class Compte {
     this.numeroCompte = numeroCompte;
   }
 
-  // ⚙️ Getter et Setter pour solde
+
   public double getSolde() {
     return solde;
   }
 
   public void setSolde(double solde) {
     this.solde = solde;
+  }
+
+  // ------------------ FONCTIONS ------------------
+
+  @Override
+  public String toString() {
+    return "Compte [numéro=" + numeroCompte + ", solde=" + solde + " €]";
   }
 }

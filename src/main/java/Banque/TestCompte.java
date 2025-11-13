@@ -11,5 +11,8 @@ public class TestCompte {
 
     System.out.println("Numéro du compte : " + compte1.getNumeroCompte());
     System.out.println("Solde du compte : " + compte1.getSolde());
+
+    System.out.println(compte1);
+
   }
 }

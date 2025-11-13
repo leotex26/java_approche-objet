@@ -1,0 +1,15 @@
+package Banque;
+
+public class TestCompte {
+  public static void main(String[] args) {
+
+
+    Compte compte1 = new Compte("23456", 1500.50);
+
+    compte1.setNumeroCompte("5199999");
+    compte1.setSolde(2000.75);
+
+    System.out.println("Numéro du compte : " + compte1.getNumeroCompte());
+    System.out.println("Solde du compte : " + compte1.getSolde());
+  }
+}

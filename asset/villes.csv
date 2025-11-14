@@ -1,0 +1,366 @@
+nom|codeDepartement|nomRegion|populationTotale
+Bourg-en-Bresse|84|Auvergne-Rhône-Alpes|43454
+Laon|32|Hauts-de-France|26031
+Saint-Quentin|32|Hauts-de-France|55940
+Soissons|32|Hauts-de-France|29417
+Montluçon|84|Auvergne-Rhône-Alpes|37417
+Gap|93|Provence-Alpes-Côte d'Azur|42567
+Antibes|93|Provence-Alpes-Côte d'Azur|74982
+Cagnes-sur-Mer|93|Provence-Alpes-Côte d'Azur|50385
+Cannes|93|Provence-Alpes-Côte d'Azur|75046
+Le Cannet|93|Provence-Alpes-Côte d'Azur|42056
+Grasse|93|Provence-Alpes-Côte d'Azur|51705
+Menton|93|Provence-Alpes-Côte d'Azur|28942
+Nice|93|Provence-Alpes-Côte d'Azur|345998
+Saint-Laurent-du-Var|93|Provence-Alpes-Côte d'Azur|28831
+Vallauris|93|Provence-Alpes-Côte d'Azur|26787
+Charleville-Mézières|44|Grand Est|48420
+Troyes|44|Grand Est|61988
+Carcassonne|76|Occitanie|47418
+Narbonne|76|Occitanie|55001
+Rodez|76|Occitanie|25747
+Aix-en-Provence|93|Provence-Alpes-Côte d'Azur|146385
+Arles|93|Provence-Alpes-Côte d'Azur|53807
+Aubagne|93|Provence-Alpes-Côte d'Azur|45711
+La Ciotat|93|Provence-Alpes-Côte d'Azur|35758
+Istres|93|Provence-Alpes-Côte d'Azur|44248
+Marignane|93|Provence-Alpes-Côte d'Azur|33949
+Marseille|93|Provence-Alpes-Côte d'Azur|870018
+Martigues|93|Provence-Alpes-Côte d'Azur|49310
+Miramas|93|Provence-Alpes-Côte d'Azur|26217
+Salon-de-Provence|93|Provence-Alpes-Côte d'Azur|46225
+Vitrolles|93|Provence-Alpes-Côte d'Azur|34301
+Caen|28|Normandie|108461
+Aurillac|84|Auvergne-Rhône-Alpes|27659
+Angoulême|75|Nouvelle-Aquitaine|44629
+La Rochelle|75|Nouvelle-Aquitaine|78623
+Saintes|75|Nouvelle-Aquitaine|26890
+Bourges|24|Centre-Val de Loire|67841
+Vierzon|24|Centre-Val de Loire|27036
+Brive-la-Gaillarde|75|Nouvelle-Aquitaine|48333
+Ajaccio|94|Corse|70063
+Bastia|94|Corse|45596
+Dijon|27|Bourgogne-Franche-Comté|159031
+Saint-Brieuc|53|Bretagne|47058
+Bergerac|75|Nouvelle-Aquitaine|28166
+Périgueux|75|Nouvelle-Aquitaine|31505
+Besançon|27|Bourgogne-Franche-Comté|120107
+Montbéliard|27|Bourgogne-Franche-Comté|26015
+Montélimar|84|Auvergne-Rhône-Alpes|39924
+Romans-sur-Isère|84|Auvergne-Rhône-Alpes|34095
+Valence|84|Auvergne-Rhône-Alpes|64322
+Évreux|28|Normandie|51560
+Chartres|24|Centre-Val de Loire|40195
+Dreux|24|Centre-Val de Loire|31575
+Brest|53|Bretagne|142629
+Quimper|53|Bretagne|66743
+Alès|76|Occitanie|41129
+Nîmes|76|Occitanie|154196
+Colomiers|76|Occitanie|39200
+Muret|76|Occitanie|25961
+Toulouse|76|Occitanie|482738
+Tournefeuille|76|Occitanie|27008
+Bègles|75|Nouvelle-Aquitaine|28092
+Bordeaux|75|Nouvelle-Aquitaine|256045
+Gradignan|75|Nouvelle-Aquitaine|26029
+Libourne|75|Nouvelle-Aquitaine|25491
+Mérignac|75|Nouvelle-Aquitaine|71203
+Pessac|75|Nouvelle-Aquitaine|62737
+Saint-Médard-en-Jalles|75|Nouvelle-Aquitaine|31576
+Talence|75|Nouvelle-Aquitaine|44040
+La Teste-de-Buch|75|Nouvelle-Aquitaine|26525
+Villenave-d'Ornon|75|Nouvelle-Aquitaine|33091
+Agde|76|Occitanie|28120
+Béziers|76|Occitanie|77894
+Lunel|76|Occitanie|26263
+Montpellier|76|Occitanie|286098
+Sète|76|Occitanie|44271
+Rennes|53|Bretagne|222104
+Saint-Malo|53|Bretagne|47528
+Châteauroux|24|Centre-Val de Loire|45780
+Joué-lès-Tours|24|Centre-Val de Loire|37974
+Tours|24|Centre-Val de Loire|139963
+Bourgoin-Jallieu|84|Auvergne-Rhône-Alpes|28399
+Échirolles|84|Auvergne-Rhône-Alpes|36143
+Grenoble|84|Auvergne-Rhône-Alpes|160836
+Saint-Martin-d'Hères|84|Auvergne-Rhône-Alpes|38974
+Vienne|84|Auvergne-Rhône-Alpes|30178
+Mont-de-Marsan|75|Nouvelle-Aquitaine|31517
+Blois|24|Centre-Val de Loire|47524
+Roanne|84|Auvergne-Rhône-Alpes|35913
+Saint-Chamond|84|Auvergne-Rhône-Alpes|35969
+Saint-Étienne|84|Auvergne-Rhône-Alpes|174298
+Nantes|52|Pays de la Loire|314611
+Orvault|52|Pays de la Loire|26618
+Rezé|52|Pays de la Loire|41808
+Saint-Herblain|52|Pays de la Loire|47502
+Saint-Nazaire|52|Pays de la Loire|72295
+Saint-Sébastien-sur-Loire|52|Pays de la Loire|27591
+Orléans|24|Centre-Val de Loire|118102
+Agen|75|Nouvelle-Aquitaine|34565
+Angers|52|Pays de la Loire|155543
+Cholet|52|Pays de la Loire|55772
+Saumur|52|Pays de la Loire|28554
+Sèvremoine|52|Pays de la Loire|26239
+Cherbourg-en-Cotentin|28|Normandie|82578
+Châlons-en-Champagne|44|Grand Est|46288
+Reims|44|Grand Est|187074
+Saint-Dizier|44|Grand Est|25666
+Laval|52|Pays de la Loire|52359
+Nancy|44|Grand Est|106953
+Vandœuvre-lès-Nancy|44|Grand Est|30502
+Lorient|53|Bretagne|58789
+Vannes|53|Bretagne|55573
+Metz|44|Grand Est|119856
+Thionville|44|Grand Est|41396
+Nevers|27|Bourgogne-Franche-Comté|34799
+Armentières|32|Hauts-de-France|25373
+Cambrai|32|Hauts-de-France|33349
+Douai|32|Hauts-de-France|40860
+Dunkerque|32|Hauts-de-France|89485
+Lambersart|32|Hauts-de-France|28027
+Lille|32|Hauts-de-France|236782
+Marcq-en-Barœul|32|Hauts-de-France|39697
+Maubeuge|32|Hauts-de-France|29995
+Roubaix|32|Hauts-de-France|96953
+Tourcoing|32|Hauts-de-France|98170
+Valenciennes|32|Hauts-de-France|44509
+Villeneuve-d'Ascq|32|Hauts-de-France|63085
+Wattrelos|32|Hauts-de-France|41570
+Beauvais|32|Hauts-de-France|57548
+Compiègne|32|Hauts-de-France|41660
+Creil|32|Hauts-de-France|36091
+Alençon|28|Normandie|27221
+Arras|32|Hauts-de-France|41973
+Béthune|32|Hauts-de-France|25753
+Boulogne-sur-Mer|32|Hauts-de-France|42293
+Calais|32|Hauts-de-France|75719
+Hénin-Beaumont|32|Hauts-de-France|26260
+Lens|32|Hauts-de-France|31080
+Liévin|32|Hauts-de-France|31337
+Clermont-Ferrand|84|Auvergne-Rhône-Alpes|146112
+Anglet|75|Nouvelle-Aquitaine|39995
+Bayonne|75|Nouvelle-Aquitaine|51943
+Biarritz|75|Nouvelle-Aquitaine|25518
+Pau|75|Nouvelle-Aquitaine|79022
+Tarbes|76|Occitanie|41862
+Perpignan|76|Occitanie|123602
+Haguenau|44|Grand Est|35024
+Illkirch-Graffenstaden|44|Grand Est|27505
+Schiltigheim|44|Grand Est|32024
+Strasbourg|44|Grand Est|283515
+Colmar|44|Grand Est|71445
+Mulhouse|44|Grand Est|110468
+Bron|84|Auvergne-Rhône-Alpes|41589
+Caluire-et-Cuire|84|Auvergne-Rhône-Alpes|43546
+Décines-Charpieu|84|Auvergne-Rhône-Alpes|28249
+Lyon 1er Arrondissement|84|Auvergne-Rhône-Alpes|30423
+Lyon 2e Arrondissement|84|Auvergne-Rhône-Alpes|30857
+Lyon 3e Arrondissement|84|Auvergne-Rhône-Alpes|103506
+Lyon 4e Arrondissement|84|Auvergne-Rhône-Alpes|36524
+Lyon 5e Arrondissement|84|Auvergne-Rhône-Alpes|49998
+Lyon 6e Arrondissement|84|Auvergne-Rhône-Alpes|52282
+Lyon 7e Arrondissement|84|Auvergne-Rhône-Alpes|82651
+Lyon 8e Arrondissement|84|Auvergne-Rhône-Alpes|85610
+Lyon 9e Arrondissement|84|Auvergne-Rhône-Alpes|51313
+Meyzieu|84|Auvergne-Rhône-Alpes|33351
+Oullins|84|Auvergne-Rhône-Alpes|26838
+Rillieux-la-Pape|84|Auvergne-Rhône-Alpes|30275
+Saint-Priest|84|Auvergne-Rhône-Alpes|46153
+Vaulx-en-Velin|84|Auvergne-Rhône-Alpes|48906
+Vénissieux|84|Auvergne-Rhône-Alpes|65822
+Villefranche-sur-Saône|84|Auvergne-Rhône-Alpes|37783
+Villeurbanne|84|Auvergne-Rhône-Alpes|150375
+Chalon-sur-Saône|27|Bourgogne-Franche-Comté|47085
+Mâcon|27|Bourgogne-Franche-Comté|34448
+Le Mans|52|Pays de la Loire|146804
+Aix-les-Bains|84|Auvergne-Rhône-Alpes|30377
+Chambéry|84|Auvergne-Rhône-Alpes|60872
+Annecy|84|Auvergne-Rhône-Alpes|130257
+Annemasse|84|Auvergne-Rhône-Alpes|35461
+Thonon-les-Bains|84|Auvergne-Rhône-Alpes|36296
+Paris|11|Île-de-France|2210875
+Dieppe|28|Normandie|30588
+Le Grand-Quevilly|28|Normandie|26175
+Le Havre|28|Normandie|172769
+Rouen|28|Normandie|112596
+Saint-Étienne-du-Rouvray|28|Normandie|29180
+Sotteville-lès-Rouen|28|Normandie|29766
+Bussy-Saint-Georges|11|Île-de-France|27299
+Chelles|11|Île-de-France|54682
+Meaux|11|Île-de-France|56249
+Melun|11|Île-de-France|41183
+Pontault-Combault|11|Île-de-France|38587
+Savigny-le-Temple|11|Île-de-France|30352
+Villeparisis|11|Île-de-France|26507
+Chatou|11|Île-de-France|31653
+Le Chesnay|11|Île-de-France|28558
+Conflans-Sainte-Honorine|11|Île-de-France|36058
+Élancourt|11|Île-de-France|25829
+Guyancourt|11|Île-de-France|28839
+Houilles|11|Île-de-France|32064
+Mantes-la-Jolie|11|Île-de-France|44231
+Montigny-le-Bretonneux|11|Île-de-France|33535
+Les Mureaux|11|Île-de-France|32777
+Plaisir|11|Île-de-France|32128
+Poissy|11|Île-de-France|37524
+Rambouillet|11|Île-de-France|26781
+Saint-Germain-en-Laye|11|Île-de-France|41749
+Sartrouville|11|Île-de-France|53237
+Trappes|11|Île-de-France|32931
+Versailles|11|Île-de-France|87315
+Niort|75|Nouvelle-Aquitaine|61044
+Amiens|32|Hauts-de-France|136998
+Albi|76|Occitanie|51151
+Castres|76|Occitanie|42923
+Montauban|76|Occitanie|61978
+Draguignan|93|Provence-Alpes-Côte d'Azur|40928
+Fréjus|93|Provence-Alpes-Côte d'Azur|54023
+La Garde|93|Provence-Alpes-Côte d'Azur|25645
+Hyères|93|Provence-Alpes-Côte d'Azur|56799
+Saint-Raphaël|93|Provence-Alpes-Côte d'Azur|35826
+La Seyne-sur-Mer|93|Provence-Alpes-Côte d'Azur|65386
+Six-Fours-les-Plages|93|Provence-Alpes-Côte d'Azur|33904
+Toulon|93|Provence-Alpes-Côte d'Azur|171643
+Avignon|93|Provence-Alpes-Côte d'Azur|94200
+Carpentras|93|Provence-Alpes-Côte d'Azur|29498
+Cavaillon|93|Provence-Alpes-Côte d'Azur|26985
+Orange|93|Provence-Alpes-Côte d'Azur|29856
+La Roche-sur-Yon|52|Pays de la Loire|56991
+Châtellerault|75|Nouvelle-Aquitaine|32887
+Poitiers|75|Nouvelle-Aquitaine|90590
+Limoges|75|Nouvelle-Aquitaine|135140
+Épinal|44|Grand Est|33454
+Auxerre|27|Bourgogne-Franche-Comté|36804
+Sens|27|Bourgogne-Franche-Comté|26688
+Belfort|27|Bourgogne-Franche-Comté|49926
+Athis-Mons|11|Île-de-France|34065
+Brétigny-sur-Orge|11|Île-de-France|26702
+Brunoy|11|Île-de-France|26520
+Corbeil-Essonnes|11|Île-de-France|51682
+Draveil|11|Île-de-France|29558
+Évry|11|Île-de-France|55425
+Grigny|11|Île-de-France|29118
+Massy|11|Île-de-France|50549
+Palaiseau|11|Île-de-France|34954
+Ris-Orangis|11|Île-de-France|29040
+Sainte-Geneviève-des-Bois|11|Île-de-France|36219
+Savigny-sur-Orge|11|Île-de-France|36677
+Les Ulis|11|Île-de-France|25031
+Vigneux-sur-Seine|11|Île-de-France|31488
+Viry-Châtillon|11|Île-de-France|30962
+Yerres|11|Île-de-France|29132
+Antony|11|Île-de-France|62989
+Asnières-sur-Seine|11|Île-de-France|86678
+Bagneux|11|Île-de-France|39977
+Bois-Colombes|11|Île-de-France|28607
+Boulogne-Billancourt|11|Île-de-France|120943
+Châtenay-Malabry|11|Île-de-France|33413
+Châtillon|11|Île-de-France|37132
+Clamart|11|Île-de-France|53099
+Clichy|11|Île-de-France|60746
+Colombes|11|Île-de-France|86050
+Courbevoie|11|Île-de-France|82351
+La Garenne-Colombes|11|Île-de-France|29503
+Gennevilliers|11|Île-de-France|46939
+Issy-les-Moulineaux|11|Île-de-France|69231
+Levallois-Perret|11|Île-de-France|64028
+Malakoff|11|Île-de-France|30286
+Meudon|11|Île-de-France|46014
+Montrouge|11|Île-de-France|49372
+Nanterre|11|Île-de-France|96321
+Neuilly-sur-Seine|11|Île-de-France|61501
+Le Plessis-Robinson|11|Île-de-France|29192
+Puteaux|11|Île-de-France|44941
+Rueil-Malmaison|11|Île-de-France|79783
+Saint-Cloud|11|Île-de-France|30797
+Suresnes|11|Île-de-France|49145
+Vanves|11|Île-de-France|28148
+Aubervilliers|11|Île-de-France|86533
+Aulnay-sous-Bois|11|Île-de-France|85214
+Bagnolet|11|Île-de-France|36047
+Le Blanc-Mesnil|11|Île-de-France|56346
+Bobigny|11|Île-de-France|52633
+Bondy|11|Île-de-France|53416
+Clichy-sous-Bois|11|Île-de-France|29978
+La Courneuve|11|Île-de-France|42712
+Drancy|11|Île-de-France|70883
+Épinay-sur-Seine|11|Île-de-France|55754
+Gagny|11|Île-de-France|39391
+Livry-Gargan|11|Île-de-France|44721
+Montfermeil|11|Île-de-France|26262
+Montreuil|11|Île-de-France|109235
+Neuilly-sur-Marne|11|Île-de-France|34859
+Noisy-le-Grand|11|Île-de-France|67086
+Noisy-le-Sec|11|Île-de-France|43693
+Pantin|11|Île-de-France|55585
+Pierrefitte-sur-Seine|11|Île-de-France|29728
+Romainville|11|Île-de-France|26640
+Rosny-sous-Bois|11|Île-de-France|45663
+Saint-Denis|11|Île-de-France|112309
+Saint-Ouen|11|Île-de-France|49949
+Sevran|11|Île-de-France|50888
+Stains|11|Île-de-France|39776
+Tremblay-en-France|11|Île-de-France|35866
+Villemomble|11|Île-de-France|30227
+Villepinte|11|Île-de-France|36809
+Alfortville|11|Île-de-France|44136
+Cachan|11|Île-de-France|30524
+Champigny-sur-Marne|11|Île-de-France|77883
+Charenton-le-Pont|11|Île-de-France|30793
+Choisy-le-Roi|11|Île-de-France|44781
+Créteil|11|Île-de-France|90052
+Fontenay-sous-Bois|11|Île-de-France|53968
+Fresnes|11|Île-de-France|27556
+L' Haÿ-les-Roses|11|Île-de-France|31416
+Ivry-sur-Seine|11|Île-de-France|61099
+Le Kremlin-Bicêtre|11|Île-de-France|25422
+Limeil-Brévannes|11|Île-de-France|26901
+Maisons-Alfort|11|Île-de-France|55816
+Nogent-sur-Marne|11|Île-de-France|32195
+Le Perreux-sur-Marne|11|Île-de-France|34017
+Saint-Maur-des-Fossés|11|Île-de-France|75833
+Sucy-en-Brie|11|Île-de-France|26575
+Thiais|11|Île-de-France|29295
+Villejuif|11|Île-de-France|55805
+Villeneuve-Saint-Georges|11|Île-de-France|33135
+Villiers-sur-Marne|11|Île-de-France|29407
+Vincennes|11|Île-de-France|50300
+Vitry-sur-Seine|11|Île-de-France|93317
+Argenteuil|11|Île-de-France|112064
+Bezons|11|Île-de-France|29216
+Cergy|11|Île-de-France|64451
+Eaubonne|11|Île-de-France|25514
+Ermont|11|Île-de-France|29400
+Franconville|11|Île-de-France|36349
+Garges-lès-Gonesse|11|Île-de-France|42821
+Gonesse|11|Île-de-France|26556
+Goussainville|11|Île-de-France|31167
+Herblay|11|Île-de-France|29614
+Pontoise|11|Île-de-France|31880
+Sannois|11|Île-de-France|27118
+Sarcelles|11|Île-de-France|58332
+Taverny|11|Île-de-France|26541
+Villiers-le-Bel|11|Île-de-France|27519
+Les Abymes|01|Guadeloupe|54818
+Baie-Mahault|01|Guadeloupe|31338
+Le Gosier|01|Guadeloupe|27023
+Fort-de-France|02|Martinique|82030
+Le Lamentin|02|Martinique|40920
+Cayenne|03|Guyane|60947
+Kourou|03|Guyane|26726
+Matoury|03|Guyane|32768
+Remire-Montjoly|03|Guyane|26170
+Saint-Laurent-du-Maroni|03|Guyane|44130
+Le Port|04|La Réunion|35141
+La Possession|04|La Réunion|33337
+Saint-André|04|La Réunion|56088
+Saint-Benoît|04|La Réunion|38466
+Saint-Denis|04|La Réunion|149337
+Saint-Joseph|04|La Réunion|38167
+Saint-Leu|04|La Réunion|34160
+Saint-Louis|04|La Réunion|53832
+Saint-Paul|04|La Réunion|106920
+Saint-Pierre|04|La Réunion|85059
+Sainte-Marie|04|La Réunion|33587
+Le Tampon|04|La Réunion|78366

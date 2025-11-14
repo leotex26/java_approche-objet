@@ -16,8 +16,15 @@ public class Theatre {
     this.recetteTotale = recetteTotale;
   }
 
+  public Theatre(int capaciteMax) {
+    this.recetteTotale = 0.0;
+    this.totalClients = 0;
+    this.capaciteMax = capaciteMax;
+  }
+
   public Theatre() {
     this.recetteTotale = 0.0;
+    this.totalClients = 0;
   }
 
   // ------------------------- GETTERS -------------------------
@@ -59,10 +66,16 @@ public class Theatre {
   /**
   * Si la capacité max du théâtre n’est pas atteinte, elle ajoute le nombre de
    * clients passé en paramètre au total de clients du théâtre et recalcule la
-   * recette totale de l’établissement
+   * recette totale de l’établissement.
+   * on calcule la recette totale.
    */
   public void inscrire(int nombreClient, double prixDeLaPlace){
-
+    if(nombreClient+totalClients <= capaciteMax){
+      this.totalClients += nombreClient;
+      this.recetteTotale += nombreClient * prixDeLaPlace;
+    } else {
+      throw new IllegalArgumentException("capacité max dépassée !!!");
+    }
   }
 
 
